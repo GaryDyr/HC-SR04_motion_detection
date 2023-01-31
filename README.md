@@ -776,7 +776,7 @@ We can put this all together in a single formula for quick
 calculation:
 
 
-![](./media/eqn1.png)
+![](./media/Eqn1.png)
 
 *v<sub>min</sub> in cm/ms, is the minimum velocity of an object to
 reliably (95% certainty) indicate motion; *
